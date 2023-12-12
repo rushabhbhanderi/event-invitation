@@ -1,5 +1,4 @@
-<style>
-    body {
+body {
   font-family: 'Arial', sans-serif;
   background-color: orange;
   margin: 0;
@@ -41,4 +40,3 @@ p {
 .btn:hover {
   background-color: #0056b3;
 }
-  </style>
